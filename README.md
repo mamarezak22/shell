@@ -31,7 +31,7 @@ sudo chmod +x shell
 
 Special thanks to [Codecrafters](https://app.codecrafters.io) for motivating me throughout this project and teaching me useful things.
 
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENCE) file for details.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENCE.txt) file for details.
 
 © 2025 *mohammadreza aghababei*
 
